@@ -1,0 +1,14 @@
+jupyter
+jupyterlab
+ipykernel
+numpy
+pandas
+requests
+bs4
+geopandas
+shapely
+argparse
+pre-commit
+tabulate
+fuzzywuzzy
+python-Levenshtein
