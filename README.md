@@ -1,6 +1,6 @@
 # bicimadrid
 
-Quick implementation of this [project](https://github.com/ih-datapt-mad/ih_datamadpt1121_project_m1/blob/main/README.md)
+Quick implementation of a project to find the closest bikes given an address in Madrid, Spain. Built to help IronHack data science bootcamp students get familiar with Python.
 
 # Environment
 Python3.8
